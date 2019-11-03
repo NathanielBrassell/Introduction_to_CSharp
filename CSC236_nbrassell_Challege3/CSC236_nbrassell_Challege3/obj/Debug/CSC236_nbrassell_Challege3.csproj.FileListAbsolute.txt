@@ -1,0 +1,14 @@
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\bin\Debug\CSC236_nbrassell_Challege3.exe.config
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\bin\Debug\CSC236_nbrassell_Challege3.exe
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\bin\Debug\CSC236_nbrassell_Challege3.pdb
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.csprojAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.frmAddStudent.resources
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.frmMain.resources
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.Properties.Resources.resources
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.csproj.GenerateResource.cache
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.exe
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.pdb
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.frmUpdateStudent.resources
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.frmAddScore.resources
+C:\Users\Nathaniel\Desktop\CSC236\CSC236_nbrassell_Challege3\CSC236_nbrassell_Challege3\obj\Debug\CSC236_nbrassell_Challege3.frmUpdateScore.resources
