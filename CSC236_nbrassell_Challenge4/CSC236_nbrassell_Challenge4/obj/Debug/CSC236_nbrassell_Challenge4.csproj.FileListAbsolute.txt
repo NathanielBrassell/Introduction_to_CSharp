@@ -1,0 +1,11 @@
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\bin\Debug\CSC236_nbrassell_Challenge4.exe.config
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\bin\Debug\CSC236_nbrassell_Challenge4.exe
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\bin\Debug\CSC236_nbrassell_Challenge4.pdb
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.csprojAssemblyReference.cache
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.Properties.Resources.resources
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.csproj.GenerateResource.cache
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.exe
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.pdb
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.frmMain.resources
+C:\Users\Nathaniel\Source\Repos\CSC236_nbrassell_Challenge4\CSC236_nbrassell_Challenge4\obj\Debug\CSC236_nbrassell_Challenge4.frmEmployee.resources
